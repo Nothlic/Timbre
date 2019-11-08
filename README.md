@@ -10,3 +10,6 @@ Materi Tugas : Membuat Mock Up suatu Start Up.
 Nama Start Up : Timbre.<br>
 Konsep : Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Bluetooth Speaker ). Konsepnya mirip seperti Start Up ReCharge Indonesia, yakni penyewaan PowerBank.
 <hr>
+
+# Halaman Awal
+<img src="ss/1.png" height=500>
