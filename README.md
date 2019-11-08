@@ -29,23 +29,23 @@ Konsep : Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Blu
 # Halaman Home
 <img src="ss/6.png" height=500>
 
-# Halaman Awal
+# Halaman Notifikasi
 <img src="ss/7.png" height=500>
 
-# Halaman Awal
+# Halaman Find Timbre
 <img src="ss/8.png" height=500>
 
-# Halaman Awal
+# Halaman Help
 <img src="ss/9.png" height=500>
 
-# Halaman Awal
+# Halaman Profil
 <img src="ss/10.png" height=500>
 
-# Halaman Awal
+# Halaman Histori Transaksi
 <img src="ss/11.png" height=500>
 
-# Halaman Awal
+# Halaman Sebelum Pembayaran
 <img src="ss/12.png" height=500>
 
-# Halaman Awal
+# Halaman Scanning Barcode
 <img src="ss/13.png" height=500>
