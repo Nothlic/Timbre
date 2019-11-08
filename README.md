@@ -26,7 +26,7 @@ Konsep : Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Blu
 # Halaman Signup
 <img src="ss/5.png" height=500>
 
-# Halaman Awal
+# Halaman Home
 <img src="ss/6.png" height=500>
 
 # Halaman Awal
