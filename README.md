@@ -1,16 +1,12 @@
-# timbre
+# UTS PEMROGRAMAN MOBILE
 
-A new Flutter application.
+Anggota Kelompok :
+-	Anton Kurniawan
+-	Angga Dwi Saputra
+-	Dimas Prasetyo
+Materi Tugas : Membuat Mock Up suatu Start Up.
+<hr>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama Start Up : Timbre.<br>
+Konsep : Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Bluetooth Speaker ). Konsepnya mirip seperti Start Up ReCharge Indonesia, yakni penyewaan PowerBank.
+<hr>
