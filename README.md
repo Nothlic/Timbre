@@ -2,43 +2,43 @@
  {{ Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Bluetooth Speaker ). Konsepnya mirip seperti Start Up ReCharge Indonesia, yakni penyewaan PowerBank. }}
 ### Screenshot
 # Halaman Awal
-<img src="1.png" height=500>
+<img src="ss/1.png" height=500>
 
 # Halaman Awal
-<img src="2.png" height=500>
+<img src="ss/2.png" height=500>
 
 # Halaman Awal
-<img src="3.png" height=500>
+<img src="ss/3.png" height=500>
 
 # Halaman Login
-<img src="4.png" height=500>
+<img src="ss/4.png" height=500>
 
 # Halaman Signup
-<img src="5.png" height=500>
+<img src="ss/5.png" height=500>
 
 # Halaman Home
-<img src="6.png" height=500>
+<img src="ss/6.png" height=500>
 
 # Halaman Notifikasi
-<img src="7.png" height=500>
+<img src="ss/7.png" height=500>
 
 # Halaman Find Timbre
-<img src="8.png" height=500>
+<img src="ss/8.png" height=500>
 
 # Halaman Help
-<img src="9.png" height=500>
+<img src="ss/9.png" height=500>
 
 # Halaman Profil
-<img src="10.png" height=500>
+<img src="ss/10.png" height=500>
 
 # Halaman Histori Transaksi
-<img src="11.png" height=500>
+<img src="ss/11.png" height=500>
 
 # Halaman Sebelum Pembayaran
-<img src="12.png" height=500>
+<img src="ss/12.png" height=500>
 
 # Halaman Scanning Barcode
-<img src="13.png" height=500>
+<img src="ss/13.png" height=500>
 
 
 ### Built With
